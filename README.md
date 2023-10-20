@@ -65,7 +65,7 @@ Our model utilizes statistics from the top 5 players with the highest MVP vote s
 
 ### How should we interpret the linear regression modedl?
 
-1. The relationship between a player's ability and the vote share they received is **never linaer**. In most year, the player ranked fifth in vote share only received <10% of the total vote share. But Joel Embiid (0.915 vote share) is not 100 times better than Luka Doncic (0.01 vote share).
+1. The relationship between a player's ability and the vote share they received is **never linear**. In most year, the player ranked fifth in vote share only received <10% of the total vote share. But Joel Embiid (0.915 vote share) is not 100 times better than Luka Doncic (0.01 vote share).
 2. Human bias such as media narrative, voter fatigue, historical performance and popularity significantly influence the voting process
 3. More advanced statistics such as RAPTOR, LEBRON and team expected wins were not used in this model but could provide a more accurate assessment of a player's value.
 
