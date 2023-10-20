@@ -48,6 +48,7 @@ Our model utilizes statistics from the top 5 players with the highest MVP vote s
 8. T-test
    
    Finally, We performed a t-test for our linear model, which resulted in a good adjusted R^2 and all coefficients having small p-values.
+   
    ![image](https://github.com/tanhl30/NBA-MVP-Predictor/assets/73421294/afbdd8cd-b2fd-4a2c-ae0a-6f095f34c47b)
 
 
